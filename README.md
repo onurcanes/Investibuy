@@ -10,3 +10,4 @@ You can look weather everysecond.Don't be worry the app will that for you!!
 One of them The Investibuy ;
 It has 3 drawer in leftside : - Currencies , CryptoSide and Gold Prices...
 
+![Uploading Ekran Resmi 2024-02-20 20.54.52.png…]()
